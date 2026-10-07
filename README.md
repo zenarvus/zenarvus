@@ -1,5 +1,3 @@
-# 
-
 ## Configs
 - [PC-Configs](https://github.com/zenarvus/pc-configs)
 
@@ -20,7 +18,6 @@
 - [SCIP](https://github.com/zenarvus/scip)
 - [Compack](https://github.com/zenarvus/compack)
 
-<div align="center">
-  
+***
+
 ![zenarvus](https://count.getloli.com/@zenarvus?theme=moebooru&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
-</div>
